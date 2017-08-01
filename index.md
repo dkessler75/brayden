@@ -1,7 +1,9 @@
-# Some Topic 1
+# Some Title
+
+## Some Topic 1
 
 Say something
 
-# Some Other Topic 1
+## Some Other Topic 1
 
 Say Something else

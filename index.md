@@ -14,3 +14,6 @@ alt="Camp Mitigwa" width="175" />
 ## Going Home
 
 I was so relieved when my scout leader told the troop we could leave early(we all agreed we wanted to leave early) because i was quite done with all the heat, and mosquitos, and uncomfortable sleeping place. when I got home I went straight to the shower.
+
+
+Please visit my twin brother's website <a href='https://dkessler75.github.io/quinten/'>here</a>.
